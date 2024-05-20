@@ -19,8 +19,8 @@
     "@remixicon/react": "^4.2.0",
     "@tremor/react": "^3.17.2",
     "isbot": "^4.1.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0-rc-d3ce0d3ea9-20240520",
+    "react-dom": "^19.0.0-rc-d3ce0d3ea9-20240520"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.9.2",
